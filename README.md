@@ -19,6 +19,8 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Google Colab
 ## Charts
 ![Category](chart_1_category.png)
 ![Monthly trend](chart_2_monthly.png)
+![sales_by_region](chart_3_region.png)
+![boxplot](chart_4_boxplot.png)
 ![Heatmap](chart_5_heatmap.png)
 
 1. Open `retail_sales_analysis.ipynb` in Google Colab
